@@ -1,3 +1,5 @@
+[![Read on Medium](https://img.shields.io/badge/Read%20on-Medium-00ab6c?logo=medium&logoColor=white)](https://medium.com/@Zedocun/how-a-wannacry-sample-hid-its-payload-inside-a-password-protected-5d1b63483ef4)
+
 ## WannaCry - Password-Protected Delivery Stage
 
 This repository documents an early stage analysis of a WannaCry sample that embeds an encrypted ZIP archive inside a Windows PE executable.
